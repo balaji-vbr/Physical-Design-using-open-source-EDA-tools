@@ -7,7 +7,7 @@ The total workshop is divided into 5 days with lab activities on each day as fol
 
 ## **DAY 1**
 
-<img src="Images/DAY1/3.png">
+
 
 
 
