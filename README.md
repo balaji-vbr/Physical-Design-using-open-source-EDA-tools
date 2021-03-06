@@ -34,14 +34,29 @@ D2SK4 5
 
 ## **DAY 3**
 
-D3SK 5,6,7
+D3SK1 5,6,7
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%205%2C6%2C7.png" width = 700>
+
+D3SK1 8
+<img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%208.png" width = 700>
 
 D3SK1 10
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%2010.png" width = 700>
 
 D3SK1 11
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%2011.png" width = 700>
+
+D3SK2 1,2
+<img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK2%201%2C2.png" width = 700>
+
+D3SK3 3
+<img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK3%203.png" width = 700>
+
+D3SK3 4
+<img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK3%204.png" width = 700>
+
+D3SK3 5
+<img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK3%205.png" width = 700>
 
 
 
