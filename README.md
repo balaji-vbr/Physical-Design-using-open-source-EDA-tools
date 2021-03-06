@@ -7,7 +7,7 @@ The total workshop is divided into 5 days with lab activities on each day as fol
 
 ## **DAY 1**
 
-![](Images/DAY1.png)
+<img src="Images/Day1/3.png">
 
 
 
