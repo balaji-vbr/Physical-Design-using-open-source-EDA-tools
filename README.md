@@ -59,7 +59,6 @@ D3SK3 5
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK3%205.png" width = 700>
 
 
-
 ## **DAY 4**
 
 D4SK1 6
@@ -93,5 +92,14 @@ D4SK4 2,3,4
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK4%202%2C3%2C4.png" width = 700>
 
 D4SK4 5
+<img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK4%205.png" width = 700>
+
+
+## **DAY 4**
+
+D5SK2 1
+<img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK4%205.png" width = 700>
+
+D5SK2 2
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK4%205.png" width = 700>
 
