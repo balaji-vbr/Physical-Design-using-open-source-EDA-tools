@@ -98,8 +98,8 @@ D4SK4 5
 ## **DAY 4**
 
 D5SK2 1
-<img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK4%205.png" width = 700>
+<img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%205/D5SK2%201.png" width = 700>
 
 D5SK2 2
-<img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK4%205.png" width = 700>
+<img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%205/D5SK2%202.png" width = 700>
 
