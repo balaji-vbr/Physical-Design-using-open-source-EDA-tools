@@ -7,6 +7,8 @@ The total workshop is divided into 5 days with lab activities on each day as fol
 
 ## **DAY 1**
 
+**Study and review of various components in RISC V based picoSoC**
+
 D1SK4 3
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/3.png" width = 700>
 
@@ -28,11 +30,15 @@ D1SK4 8
 
 ## **DAY2**
 
+**Chip planning strategies and introduction to foundry library cells**
+
 D2SK4 5
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%202/D2SK4%205.png" width = 700>
 
 
 ## **DAY 3**
+
+**Design and characterize one library cell using Magic layout tool and ngspice**
 
 D3SK1 5,6,7
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%205%2C6%2C7.png" width = 700>
@@ -60,6 +66,8 @@ D3SK3 5
 
 
 ## **DAY 4**
+
+**Pre-layout timing analysis and importance of good clock tree**
 
 D4SK1 6
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK1%206.png" width = 700>
@@ -95,7 +103,9 @@ D4SK4 5
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK4%205.png" width = 700>
 
 
-## **DAY 4**
+## **DAY 5**
+
+**Final steps for RTL2GDS**
 
 D5SK2 1
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%205/D5SK2%201.png" width = 700>
