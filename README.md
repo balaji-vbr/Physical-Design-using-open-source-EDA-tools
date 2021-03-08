@@ -59,8 +59,12 @@ D1SK4 5
 D1SK4 6
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/6.png" width = 700>
 
+This is the tkcon window in which we can view the dimensions of the layout and the area.
+
 D1SK4 7
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/7.png" width = 700>
+
+These below figures specifies the percentage ratio of flipflop to total logic. Number of cells = 13197 and Number of flops = 1613,Then the Ratio of flops to total logic = 1317/1613 = 12.22%.
 
 D1SK4 8
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/8.png" width = 700>
