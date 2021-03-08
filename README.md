@@ -64,7 +64,7 @@ This is the tkcon window in which we can view the dimensions of the layout and t
 D1SK4 7
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/7.png" width = 700>
 
-These below figures specifies the percentage ratio of flipflop to total logic. Number of cells = 13197 and Number of flops = 1613,Then the Ratio of flops to total logic = 1317/1613 = 12.22%.
+These below figures specifies the percentage ratio of flipflop to total logic. Number of cells = 13197 and Number of flops = 1613, So the Ratio of flops to total logic = 1317/1613 = 12.22%.
 
 D1SK4 8
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/8.png" width = 700>
@@ -78,7 +78,7 @@ Core is the section of the chip where the fundamental logic of the design is pla
 
 Aspect ratio is defined as ratio of height to width of the core. If the aspect ratio is 1 then the chip is in square shape and if it is 0.5 then the chip is in rectangle shape.
 
-Concepts were also taught on De coupling capacitors, Power planning, Concept of preplaced cells. The labs focussed on floorplanning and calculation of are of the chip.
+Concepts were also taught on De coupling capacitors, Power planning, Concept of preplaced cells. The labs focussed on floorplanning and calculation of area of the chip.
 
 ### **LAB**
 
@@ -126,7 +126,7 @@ D3SK3 5
 
 On day 4 concepts were taught on Delay tables, Setup timing analysis and introduction to flipflop setup time, Setup timing analysis using real clocks, Hold timing analysis using real clocks<br />
 
-And the labs mainly focussed on netlist description and transient response of and inverter.
+And the labs mainly focussed on netlist description and transient response of an inverter.
 
 ### **LAB**
 
