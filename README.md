@@ -74,6 +74,14 @@ D1SK4 8
 
 ### **Chip planning strategies and introduction to foundry library cells**
 
+Core is the section of the chip where the fundamental logic of the design is placed. A die ,which consists of core ,is a small semiconductor material specimen on whcih the fundamental circuit is fabricated. A netlist describes the connectivity of a electronic design. <br />
+
+Aspect ratio is defined as ratio of height to width of the core. If the aspect ratio is 1 then the chip is in square shape and if it is 0.5 then the chip is in rectangle shape.
+
+Concepts were also taught on De coupling capacitors, Power planning, Concept of preplaced cells. The labs focussed on floorplanning and calculation of are of the chip.
+
+### **LAB**
+
 D2SK4 5
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%202/D2SK4%205.png" width = 700>
 
@@ -81,6 +89,11 @@ D2SK4 5
 ## **DAY 3**
 
 ### **Design and characterize one library cell using Magic layout tool and ngspice**
+
+On day 3 concepts are taught about <br />
+SPICE deck creation for CMOS inverter, SPICE simulation lab for CMOS inverter, Switching Threshold Vm, Layout using only stick diagram, Post layout ngspice simulation and the labs mainly focused on transient analysis and calculation of rise delay and fall delay.
+
+### **LAB**
 
 D3SK1 5,6,7
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%205%2C6%2C7.png" width = 700>
@@ -110,6 +123,12 @@ D3SK3 5
 ## **DAY 4**
 
 ### **Pre-layout timing analysis and importance of good clock tree**
+
+On day 4 concepts were taught on Delay tables, Setup timing analysis and introduction to flipflop setup time, Setup timing analysis using real clocks, Hold timing analysis using real clocks<br />
+
+And the labs mainly focussed on netlist description and transient response of and inverter.
+
+### **LAB**
 
 D4SK1 6
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK1%206.png" width = 700>
