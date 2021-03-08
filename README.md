@@ -7,7 +7,7 @@ The total workshop is divided into 5 days with lab activities on each day as fol
 
 ## **DAY 1**
 
-**Study and review of various components in RISC V based picoSoC**
+### **Study and review of various components in RISC V based picoSoC**
 
 D1SK4 3
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/3.png" width = 700>
