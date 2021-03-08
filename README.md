@@ -5,11 +5,11 @@ The aim of this repository is to understand the basics of Physical Design which 
 
 The total workshop is divided into 5 days with lab activities on each day as follows
 
-*DAY 1 - Study and review of various components in RISC V based picoSoC*
-*DAY 2 - Chip planning strategies and introduction to foundry library cells*
-*DAY 3 - Design and characterize one library cell using Magic layout tool and ngspice*
-*DAY 4 - Pre-layout timing analysis and importance of good clock tree*
-*DAY 5 - Final steps for RTL2GDS*
+*DAY 1 - Study and review of various components in RISC V based picoSoC.* <br />
+*DAY 2 - Chip planning strategies and introduction to foundry library cells.* <br />
+*DAY 3 - Design and characterize one library cell using Magic layout tool and ngspice.* <br />
+*DAY 4 - Pre-layout timing analysis and importance of good clock tree.* <br />
+*DAY 5 - Final steps for RTL2GDS.*
 
 ## **DAY 1**
 
