@@ -11,9 +11,33 @@ The total workshop is divided into 5 days with lab activities on each day as fol
 *DAY 4 - Pre-layout timing analysis and importance of good clock tree.* <br />
 *DAY 5 - Final steps for RTL2GDS.*
 
+
+
+Package QFN - 48 is manufactured by germany labs. The full form of QFN is Quad Flat No leads and the number 48 represents the number of ports of the chip.The package dimensions are 7mm * 7mm. <br />
+
+Picorv32 - It is basically a CPU core which is small size, high clock speed with an native memory interface and an optional IRQ support. <br />
+
+Tools used in this workshop were: <br />
+
+Yosys – for logic Synthesis <br />
+Graywolf – for Placement and floor planning <br />
+Ngspice- for pre-layout and post-layout simulation <br />
+Qrouter – for Routing <br />
+eSim - for schematic editor <br />
+Netgen – for LVS <br />
+Magic – for Layout and Floorplanning <br />
+Qflow – RTL2GDS integration <br />
+OpenSTA & Opentimer - for Pre-layout and Post-layout Static timing analysis <br />
+
+
 ## **DAY 1**
 
 ### **Study and review of various components in RISC V based picoSoC**
+
+RISC V: <br />
+RISC-V is an open standard instruction set architecture based on established reduced instruction set computer principles. It is provided under open-source license which gives it a huge advantage when compared to other commercial ISAs.The base RISC-V ISA has a little-endian memory system. The standard is maintained by the RISC-V foundation.
+
+Raven is using a very popular 32-bit RISC-V core (PicoRV32) developed by Clifford Wolf. The core was previously proven with an FPGA implementation and Raven is the first SoC built with it.
 
 D1SK4 3
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/3.png" width = 700>
