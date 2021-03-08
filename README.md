@@ -39,7 +39,7 @@ RISC-V is an open standard instruction set architecture based on established red
 
 Raven is using a very popular 32-bit RISC-V core (PicoRV32) developed by Clifford Wolf. The core was previously proven with an FPGA implementation and Raven is the first SoC built with it.
 
-### **LAB**
+### **LAB:**
 
 By typing the command **>yosys** in linux terminal we can open the yosys terminal as shown.
 
@@ -80,7 +80,7 @@ Aspect ratio is defined as ratio of height to width of the core. If the aspect r
 
 Concepts were also taught on De coupling capacitors, Power planning, Concept of preplaced cells. The labs focussed on floorplanning and calculation of area of the chip.
 
-### **LAB**
+### **LAB:**
 
 D2SK4 5
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%202/D2SK4%205.png" width = 700>
@@ -93,7 +93,7 @@ D2SK4 5
 On day 3 concepts are taught about <br />
 SPICE deck creation for CMOS inverter, SPICE simulation lab for CMOS inverter, Switching Threshold Vm, Layout using only stick diagram, Post layout ngspice simulation and the labs mainly focused on transient analysis and calculation of rise delay and fall delay.
 
-### **LAB**
+### **LAB:**
 
 D3SK1 5,6,7
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%205%2C6%2C7.png" width = 700>
@@ -128,7 +128,7 @@ On day 4 concepts were taught on Delay tables, Setup timing analysis and introdu
 
 And the labs mainly focussed on netlist description and transient response of an inverter.
 
-### **LAB**
+### **LAB:**
 
 D4SK1 6
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK1%206.png" width = 700>
@@ -167,6 +167,10 @@ D4SK4 5
 ## **DAY 5**
 
 ### **Final steps for RTL2GDS**
+
+On the final day concepts were taught on Maze routing-Lees's ALgorithm, Design rule checkDesign rule check, Introduction to IEEE 1481-1999 SPEF fomat, Placement and pre layout STA, Routing and post-route STA
+
+### **LAB:**
 
 D5SK2 1
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%205/D5SK2%201.png" width = 700>
