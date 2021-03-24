@@ -151,20 +151,27 @@ The information of the cell **invx1** is present here.
 
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK2%209.png" width = 700>
 
-The innformation on fall_transition, rise_transition, cell_rise, fall delay are present here
+The information on fall_transition, rise_transition, cell_rise, fall delay are present here
 
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK2%2010.png" width = 700>
 
-D4SK2 11
+Now change the directory from vsdflow to my_picorv32 and create a flie by leafpad picorv32.sdc. Now type the exact command there create_clock -name clk -period 2.5 -waveform {0 1.25} . Now save the file and create another file by leafpad and type the below commands. <br />
+read_liberty /usr/local/share/qflow/tech/osu018/osu018_stdcells.lib  <br />
+read_verilog synthesis/picorv32.rtlnopwr.v  <br />
+link_design picorv32  <br />
+read_sdc picorv32.sdc  <br />
+report_checks  <br />
+
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK2%2011.png" width = 700>
 
-D4SK2 12,13
+Here we can check the data accquired time and the data receive time.
+
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK2%2012%2C13.png" width = 700>
 
-D4SK4 2,3,4
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK4%202%2C3%2C4.png" width = 700>
 
-D4SK4 5
+Now type the command set_propogated_clock after performing thes sta on prelayout. Now type the command report_checks in the terminal and check the slack
+
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK4%205.png" width = 700>
 
 
