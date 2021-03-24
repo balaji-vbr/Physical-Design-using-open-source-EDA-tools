@@ -191,3 +191,6 @@ To check the post layout frequency type the command **leafpad log/post_sta.log**
 
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%205/D5SK2%202.png" width = 700>
 
+
+## **Acknowledgements**
+Mr [Kunal Ghosh](https://www.vlsisystemdesign.com/about-me/) cofounder of [VSD (VLSI System Design) Pvt ltd] (https://www.vlsisystemdesign.com/)
