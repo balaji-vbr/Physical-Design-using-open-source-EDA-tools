@@ -141,16 +141,18 @@ Now change the output load capacitance to 20fF from 10fF and repeat the same ste
 
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK1%208.png" width = 700>
 
-D4SK2 6,7
+Now to find out the values of slew_upper_hreshold_pct_fall, slew_upper_hreshold_pct_rise and output_threshold_pct_rise, output_threshold_pct_fall open the file using this following location /usr/local/share/qflow/tech/osu018/osu018_stdcells.lib 
+
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK2%206%2C7.png" width = 700>
 
-D4SK2 8
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK2%208.png" width = 700>
 
-D4SK2 9
+The information of the cell **invx1** is present here.
+
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK2%209.png" width = 700>
 
-D4SK2 10
+The innformation on fall_transition, rise_transition, cell_rise, fall delay are present here
+
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK2%2010.png" width = 700>
 
 D4SK2 11
