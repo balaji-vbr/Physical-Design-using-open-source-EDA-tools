@@ -187,7 +187,7 @@ Now change the directory from vsdflow to my_picorv32 and by using the command **
 
 This is how the layout will look like
 
-<img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%205/D5SK2%201.png" width = 700>
+<img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%205/d5sk2-mcq1contd.jpg" width = 700>
 
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%205/D5SK2%201.png" width = 700>
 
