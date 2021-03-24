@@ -112,9 +112,9 @@ The below figure is used for layout drawing and it is opened using the magic too
 
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK3%203.png" width = 700>
 
-Now we'll extract all the files by using the command **extract all** and it is used in the **fn_postlayout.spice**. Now this file does not contain the vdd and gnd information so this details are copied from the prelayout file and pasted here. Now the transient analysis is done for the post layout file and the rising and falling waveforms are obtained.
-
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK3%204.png" width = 700>
+
+Now we'll extract all the files by using the command **extract all** and it is used in the **fn_postlayout.spice**. Now this file does not contain the vdd and gnd information so this details are copied from the prelayout file and pasted here. Now the transient analysis is done for the post layout file and the rising and falling waveforms are obtained.
 
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK3%205.png" width = 700>
 
