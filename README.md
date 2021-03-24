@@ -133,12 +133,12 @@ Now using the command **cat** change the directory to ngspice_labs and open inv_
 
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK1%206.png" width = 700>
 
+Now we need to find the rise delay using the same method by running the ngspice with the **inv_tran.spice** file and set the plot to transient analysis. 
 
-
-D4SK1 7
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK1%207.png" width = 700>
 
-D4SK1 8
+Now change the output load capacitance to 20fF from 10fF and repeat the same steps to find the rise delay of the waveform using transient analysis.
+
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK1%208.png" width = 700>
 
 D4SK2 6,7
