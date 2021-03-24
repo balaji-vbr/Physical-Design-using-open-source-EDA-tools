@@ -43,17 +43,14 @@ Raven is using a very popular 32-bit RISC-V core (PicoRV32) developed by Cliffor
 
 By typing the command **>yosys** in linux terminal we can open the yosys terminal as shown.
 
-D1SK4 3
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/3.png" width = 700>
 
 By typing the command **which sta** the location of the sta will be shown. 
 
-D1SK4 4
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/4.png" width = 700>
 
-The command **git clone** is used for cloning the vsdflow.
+The command **git clone** is used for cloning the vsdflow. Which is taken from https://github.com/kunalg123/vsdflow.
 
-D1SK4 5
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/5.png" width = 700>
 
 D1SK4 6
