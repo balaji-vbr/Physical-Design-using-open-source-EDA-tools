@@ -94,13 +94,13 @@ Inorder to use the ngspice labs the command ngspice_labs is cloned and the direc
 
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%205%2C6%2C7.png" width = 700>
 
-D3SK1 8
+This simulation is done by using the ngspice tool and the command used here is **ngspice inv.spice**. This is DC characheterstics graph and by using the command **leafpad** we can change the width of pmos which is 0.75u. 
+
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%208.png" width = 700>
 
-D3SK1 10
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%2010.png" width = 700>
 
-D3SK1 11
+We can also calculate the risedelay by taking the transfer characteristics of the inverter. Rise delay is the difference between the 20% and 80% of a rising waveform. The same steps are followed by opening the ngspice tool and the command **inv_trans.spice** then the transient analysis is done and the waveform is plotted.
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%2011.png" width = 700>
 
 D3SK2 1,2
