@@ -183,9 +183,11 @@ On the final day concepts were taught on Maze routing-Lees's ALgorithm, Design r
 
 ### **LAB:**
 
-D5SK2 1
+Now change the directory from vsdflow to my_picorv32 and by using the command **qflow** perform the synthesis and placement steps and for routing type the command qflowroute picorv32. Now a window will pop up where the routing step will take place. After the routing step is completed perform the sta by typing command qflow sta picorv32 qflow backanno picorv32 for the log file to open and then type leafpad log/sta.log to check the pre layout frequency.
+
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%205/D5SK2%201.png" width = 700>
 
+To check the post layout frequency type the command **leafpad log/post_sta.log**
 D5SK2 2
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%205/D5SK2%202.png" width = 700>
 
