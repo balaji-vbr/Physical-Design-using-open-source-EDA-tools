@@ -90,7 +90,8 @@ SPICE deck creation for CMOS inverter, SPICE simulation lab for CMOS inverter, S
 
 ### **LAB:**
 
-D3SK1 5,6,7
+Inorder to use the ngspice labs the command ngspice_labs is cloned and the directory is changed to ngspice_labs. For viewing the width of pmos, nmos and wp/wn ratio the inv.spice file is opened using the command **cat**.
+
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%205%2C6%2C7.png" width = 700>
 
 D3SK1 8
