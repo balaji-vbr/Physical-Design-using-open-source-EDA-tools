@@ -193,4 +193,4 @@ To check the post layout frequency type the command **leafpad log/post_sta.log**
 
 
 ## **Acknowledgements**
-Mr [Kunal Ghosh](https://www.vlsisystemdesign.com/about-me/) cofounder of [VSD (VLSI System Design) Pvt ltd](https://www.vlsisystemdesign.com/)
+Mr [Kunal Ghosh](https://www.vlsisystemdesign.com/about-me/) cofounder of [VSD (VLSI System Design) Pvt ltd.](https://www.vlsisystemdesign.com/)
