@@ -101,6 +101,7 @@ This simulation is done by using the ngspice tool and the command used here is *
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%2010.png" width = 700>
 
 We can also calculate the risedelay by taking the transfer characteristics of the inverter. Rise delay is the difference between the 20% and 80% of a rising waveform. The same steps are followed by opening the ngspice tool and the command **inv_trans.spice** then the transient analysis is done and the waveform is plotted.
+
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%2011.png" width = 700>
 
 D3SK2 1,2
