@@ -104,7 +104,8 @@ We can also calculate the risedelay by taking the transfer characteristics of th
 
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK1%2011.png" width = 700>
 
-D3SK2 1,2
+With ngspice the pre layout file is simulated and its transient analysis is observed. The command used here is **ngspice fn_prelayout.spice**. Now the output graph is plotted with 1.25 as the refference of the rising waveform. 
+
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%203/D3SK2%201%2C2.png" width = 700>
 
 D3SK3 3
