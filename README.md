@@ -55,7 +55,7 @@ The command **git clone** is used for cloning the vsdflow. Which is taken from h
 
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/6.png" width = 700>
 
-This is the tkcon window in which we can view the dimensions of the layout in which the area is also specified.
+This is the tkcon window in which by typing the command **box** we can view the dimensions of the layout in which the area is also specified.
 
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/7.png" width = 700>
 
