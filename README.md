@@ -129,8 +129,11 @@ And the labs mainly focussed on netlist description and transient response of an
 
 ### **LAB:**
 
-D4SK1 6
+Now using the command **cat** change the directory to ngspice_labs and open inv_tran.spice file. Now we can see the input rise slew and fall slew of the netlist description.
+
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK1%206.png" width = 700>
+
+
 
 D4SK1 7
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%204/D4SK1%207.png" width = 700>
