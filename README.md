@@ -53,17 +53,14 @@ The command **git clone** is used for cloning the vsdflow. Which is taken from h
 
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/5.png" width = 700>
 
-D1SK4 6
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/6.png" width = 700>
 
-This is the tkcon window in which we can view the dimensions of the layout and the area.
+This is the tkcon window in which we can view the dimensions of the layout in which the area is also specified.
 
-D1SK4 7
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/7.png" width = 700>
 
-These below figures specifies the percentage ratio of flipflop to total logic. Number of cells = 13197 and Number of flops = 1613, So the Ratio of flops to total logic = 1317/1613 = 12.22%.
+These below figures specifies the percentage ratio of flipflop to total logic.For that to be realized we should go to terminal and change the registry to vsdflow.make a catalog my_picorv32.make three registries ie., source,synthesis,layout.In which the real verilog source document picorv32.v is duplicated into source folder. Number of cells = 13197 and Number of flops = 1613, So the Ratio of flops to total logic = 1317/1613 = 12.22%.
 
-D1SK4 8
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%201/8.png" width = 700>
 
 
