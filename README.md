@@ -76,7 +76,8 @@ Concepts were also taught on De coupling capacitors, Power planning, Concept of 
 
 ### **LAB:**
 
-D2SK4 5
+Now first we have to change the directory to vsdflow and after that we have to change it to my_picorv32. After this step we should type the command **qflow display picorv32** by which the tckon windown will open. And now again by typing the command **box** in the tckon window we will be able to calculate the area.
+
 <img src = "https://github.com/balaji-vbr/Physical-Design-using-open-source-EDA-tools/blob/main/Images/DAY%202/D2SK4%205.png" width = 700>
 
 
